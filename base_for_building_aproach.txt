@@ -1,0 +1,8 @@
+
+optical flow: https://github.com/princeton-vl/RAFT
+Light Field Rendering with Deep Anti-Aliasing NN: https://github.com/GaochangWu/DA2N/tree/main
+Motion Vector Extractor: https://github.com/LukasBommes/mv-extractor
+temporal-median-video: https://github.com/Pantsworth/temporal-median-video
+Temporal Smoothing Transformers: https://github.com/zhaoyue-zephyrus/TeSTra
+
+
